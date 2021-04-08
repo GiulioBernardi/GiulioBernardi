@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://topnode.com.br/">
+<img align="right" width="400" height="400" src="https://giphy.com/gifs/IevWc3iH9FiI7yMItd/html5">
 
 # Hi there 👋
 ## I'm Giulio! Let me introduce myself
