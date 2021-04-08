@@ -8,7 +8,7 @@ Studying to be a Full-Stack developer 📚
 I'm always in love with technology 💻
 
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat square&logo=Github&logoColor=white&link=https://github.com/GiulioBernardi)](https://github.com/GiulioBernardi)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GiulioBernardi)](https://github.com/GiulioBernardi)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-bernardi-ti/)](https://www.linkedin.com/in/giulio-bernardi-ti/)
 
