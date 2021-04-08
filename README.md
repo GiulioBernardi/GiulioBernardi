@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://giphy.com/gifs/IevWc3iH9FiI7yMItd/html5">
+<img align="right" width="400" height="400" src="https://images.pexels.com/photos/2669220/pexels-photo-2669220.jpeg?cs=srgb&dl=pexels-jonas-ferlin-2669220.jpg&fm=jpg">
 
 # Hi there 👋
 ## I'm Giulio! Let me introduce myself
