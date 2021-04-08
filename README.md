@@ -5,9 +5,11 @@
 
 Internship at *Synchro Soluções Fiscais* working with salesforce 👔
 
-Studying to be a Full-Stack developer 📚
+Studying to be a Full-Stack developer at FIAP 📚
 
 I'm always in love with technology 💻
+
+
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GiulioBernardi)](https://github.com/GiulioBernardi)
