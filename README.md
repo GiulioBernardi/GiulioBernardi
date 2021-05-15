@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://hipsters.jobs/files/pictures/logofiap.png">
 
-# Hi there 👋
+# Helo there 👋
 ## I'm Giulio! Let me introduce myself
 
 Internship at *Synchro Soluções Fiscais* working with Salesforce 👔
