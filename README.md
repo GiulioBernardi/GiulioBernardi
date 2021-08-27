@@ -3,7 +3,7 @@
 # Helo there 👋
 ## I'm Giulio! Let me introduce myself
 
-Internship at *Synchro Soluções Fiscais* working with Salesforce 👔
+My goal is to become a *Software Developer*  👔
 
 Studying to be a Full-Stack developer at FIAP 📚
 
