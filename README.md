@@ -7,7 +7,6 @@ My goal is to become a *Software Developer*  👔
 
 Studying to be a Full-Stack developer at FIAP 📚
 
-I'm always in love with technology 💻
 
 
 
