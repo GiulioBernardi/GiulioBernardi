@@ -1,16 +1,14 @@
 <img align="right" width="400" height="400" src="https://hipsters.jobs/files/pictures/logofiap.png">
 
 # Helo there 👋
-## I'm Giulio! Let me introduce myself
+Estou estudando para me tornar um *Engenheiro de Software*  👔
 
-My goal is to become a *Software Engineer*  👔
-
-Studying to be a Full-Stack developer at FIAP 📚
+Estou no meu último ano da graduação em Tecnologo de ADS na FIAP 📚
 
 
 
 
-## About me 
+## Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-bernardi-ti/)](https://www.linkedin.com/in/giulio-bernardi-ti/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giulioccbernardi@gmail.com)](mailto:giulioccbernardi@gmail.com)
