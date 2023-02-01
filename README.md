@@ -3,7 +3,7 @@
 # Helo there 👋
 Estou estudando para me tornar um *Engenheiro de Software*  👔
 
-Estou no meu último ano da graduação em Tecnologo de ADS na FIAP 📚
+Atualmente sou aprendiz de desenvolvedor na Bluesoft.
 
 ## Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-bernardi-ti/)](https://www.linkedin.com/in/giulio-bernardi-ti/)
