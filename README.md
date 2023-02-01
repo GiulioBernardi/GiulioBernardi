@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://hipsters.jobs/files/pictures/logofiap.png">
-
 # Helo there 👋
 Estou estudando para me tornar um *Engenheiro de Software*  👔
 
