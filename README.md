@@ -9,7 +9,7 @@ Sou aprendiz de desenvolvedor Java na empresa [Bluesoft](https://bluesoft.com.br
 ### Meus objetivos
 A curto prazo tenho o objetivo de avançar na carreira como desenvolvedor, na qual estou começando. Meu principal objetivo a longo prazo, atualmente, é me tornar um engenheiro de software.
 
-## Links
+## Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulio-bernardi-ti/)](https://www.linkedin.com/in/giulio-bernardi-ti/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giulioccbernardi@gmail.com)](mailto:giulioccbernardi@gmail.com)
