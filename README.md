@@ -1,7 +1,7 @@
 # Helo there 👋
 ### Quem sou eu
 Tenho 22 anos e atuo como aprendiz de desenvolvedor FullStack (focado em backend).
-Nasci em Santos/SP e sempre tive muita afinidade com pratica de esportes ao ar livre, onde atualmente pratico ciclismo(speed). 🚴‍♂️
+Nasci em Santos/SP e sempre tive muita afinidade com pratica de esportes ao ar livre.
 
 ### O que eu faço atualmente
 Sou aprendiz de desenvolvedor Java na empresa [Bluesoft](https://bluesoft.com.br/) em São Paulo e trabalho no setor que mantém um sistema de WMS
