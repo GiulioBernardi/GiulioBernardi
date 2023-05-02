@@ -1,6 +1,6 @@
 # Helo there 👋
 ### Quem sou eu
-Me chamo Giulio Cesar, tenho 22 anos e estudo desenvolvimento focado em backend.
+Tenho 22 anos e atuo como aprendiz de desenvolvedor FullStack (focado em backend).
 Nasci em Santos/SP e sempre tive muita afinidade com pratica de esportes ao ar livre, onde atualmente pratico ciclismo(speed). 🚴‍♂️
 
 ### O que eu faço atualmente
