@@ -1,6 +1,6 @@
 # Hello there 👋
 ### Quem sou eu
-Tenho 22 anos, nasci em Santos/SP e sempre tive muita afinidade com pratica de esportes ao ar livre.
+Tenho 23 anos, nasci em Santos/SP e sempre tive muita afinidade com pratica de esportes ao ar livre.
 
 ### O que eu faço atualmente
 Sou aprendiz de desenvolvedor Java na empresa [Bluesoft](https://bluesoft.com.br/) em São Paulo e faço parte do time que mantém WMS
